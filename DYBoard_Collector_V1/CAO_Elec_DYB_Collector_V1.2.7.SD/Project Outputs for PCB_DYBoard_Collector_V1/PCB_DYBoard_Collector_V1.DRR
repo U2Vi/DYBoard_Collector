@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_DYBoard_Collector_V1.PcbDoc   27/02/2023  17:34:53
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_DYBoard_Collector_V1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             284       PTH        48.88inch (1241.46mm)
+T2      28mil (0.711mm)                                           Round             44        PTH        18.85inch (478.70mm)
+T3      32mil (0.8mm)                                             Round             128       PTH        23.65inch (600.68mm)
+T4      83mil (2.1mm)                                             Round             2         PTH        0.47inch (11.94mm)
+T5      122mil (3.1mm)                                            Round             6         PTH        15.83inch (402.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              464
+
+Total Processing Time (hh:mm:ss) : 00:00:00
